@@ -132,3 +132,8 @@ img{
 .about-description {
     padding: 0 5% 3% 5%;
 }
+/*go back and change the styling and content on content page.  This is temporary*/
+#contact-div {
+    width: 50%;
+    padding: 3%;
+}
