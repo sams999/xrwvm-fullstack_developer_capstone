@@ -124,3 +124,11 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.about-header {
+    padding-top: 5%;
+}
+
+.about-description {
+    padding: 0 5% 3% 5%;
+}
